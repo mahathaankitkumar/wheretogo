@@ -1,1 +1,1 @@
-# wheretogo
+This website created in ReactJS tracks the users current location and displays the nearby hotels, restaurants and tourist spots. Users can also filter the results based on ratings. Here is a quick demo of the working of the website:-
